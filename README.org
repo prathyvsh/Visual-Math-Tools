@@ -18,6 +18,9 @@ https://www.wolframalpha.com/
 - Xypic
 - https://github.com/jluttine/tikz-bayesnet
 
+*** Calculation
+- https://www.getguesstimate.com/
+- https://instacalc.com/
 
 ** Native Apps
 
