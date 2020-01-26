@@ -1,0 +1,25 @@
+* Visual Math Tools
+
+** Web Apps
+
+*** Geometry Visualization
+https://www.geogebra.org/
+
+*** Online Notebooks
+https://www.mathcha.io/
+
+*** Computation
+https://www.wolframalpha.com/
+
+*** Diagram generation
+
+- Tikz
+- Penrose.ink
+- Xypic
+- https://github.com/jluttine/tikz-bayesnet
+
+
+** Native Apps
+
+- Soulver
+- Numi
