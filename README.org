@@ -1,43 +1,62 @@
 * Visual Math Tools
 
-** Web Apps
+** Geometry Visualization
 
-*** Geometry Visualization
-- https://www.geogebra.org/
+*** [[https://www.geogebra.org/][Geogebra]] (Web)
+GeoGebra is dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus in one easy-to-use package. 
 
-*** Online Notebooks
-- https://www.mathcha.io/
-- ObservableHQ
-- Jupyter Notebooks
+[[Geogebra][./geogebra.png]]
 
-*** Computation
+** Notebooks
+
+**** [[https://www.mathcha.io/][Mathcha]] (Web)
+Mathcha provides sufficent Normal Text Editing Feature, and various sets of mathematical symbols/layouts, together with Drawing Features, which helps you to have a single place to create your own Mathematical document (Normal Text, Math Mode Text, Diagram/Graph).
+[[Mathcha][./mathcha.png]]
+
+*** [[https://observablehq.png][Observable]] (Web)
+[[ObservableHQ][./observablehq.png]]
+
+*** [[https://jupyter.org/][Jupyter Notebooks]]
+[[Jupyter][./jupyternotebooks.png]]
+
+** Computation
+
+*** [[https://www.wolframalpha.com/][Wolfram Alpha]]
 - https://www.wolframalpha.com/
 
-*** Category theory
-- http://cartographer.id/
-- http://quantomatic.github.io/
-- http://globular.science/
-- http://homotopy.io
+** Category theory
+
+*** [[http://cartographer.id/][Cartographer]]
+[[Cartographer][./cartographer.png]]
+
+*** [[http://quantomatic.github.io/][Quantomatic]]
+[[Quantomatic][./quantomatic.png]]
+
+*** [[http://globular.science/][Globular]]
+
+*** [[http://homotopy.io][Homotopy]]
 
 
+** Diagram generation
 
-*** Diagram generation
-
-- Tikz
-- Penrose.ink
-- Xypic
-- https://github.com/jluttine/tikz-bayesnet
-- https://tikzit.github.io
--   http://tikzcd.yichuanshen.de
+*** [[http://www.texample.net/tikz/][Tikz]]
+*** [[https://penrose.ink][Penrose]]
+*** [[https://tug.org/applications/Xy-pic/][Xypic]]
+*** [[http://www.graphviz.org/][GraphViz]]
+*** [[https://tikzit.github.io][TikZit]]
+[[Tikzit][./tikzit.png]]
+*** [[http://tikzcd.yichuanshen.de][TikzCD]]
+[[TikzCD][./tikzcd.png]]
 
 *** Calculation
-- https://www.getguesstimate.com/
-- https://instacalc.com/
+*** [[https://www.getguesstimate.com/][Guesstimate]]
+
+*** [[https://instacalc.com/][InstaCalc]]
 
 ** Native Apps
 
-- Soulver
-- Numi
+*** [[https://soulver.app][Soulver]]
+*** [[https://numi.app][Numi]]
 
 ** Lists
 - https://ncatlab.org/nlab/show/list+of+mathematics+software
