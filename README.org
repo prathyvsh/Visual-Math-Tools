@@ -7,9 +7,19 @@ https://www.geogebra.org/
 
 *** Online Notebooks
 https://www.mathcha.io/
+ObservableHQ
+Jupyter Notebooks
 
 *** Computation
 https://www.wolframalpha.com/
+
+*** Category theory
+http://cartographer.id/
+http://quantomatic.github.io/
+http://globular.science/
+homotopy.io
+
+
 
 *** Diagram generation
 
@@ -17,6 +27,8 @@ https://www.wolframalpha.com/
 - Penrose.ink
 - Xypic
 - https://github.com/jluttine/tikz-bayesnet
+- https://tikzit.github.io
+-   http://tikzcd.yichuanshen.de
 
 *** Calculation
 - https://www.getguesstimate.com/
@@ -26,3 +38,6 @@ https://www.wolframalpha.com/
 
 - Soulver
 - Numi
+
+** Lists
+https://ncatlab.org/nlab/show/list+of+mathematics+software
