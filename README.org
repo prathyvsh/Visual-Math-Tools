@@ -7,6 +7,9 @@ GeoGebra is dynamic mathematics software for all levels of education that brings
 
 [[Geogebra][./geogebra.png]]
 
+*** [[http://www.drgeo.eu/][Dr.Geo]]
+[[Dr.Geo][./drgeo.gif]]
+
 ** Notebooks
 
 *** [[https://www.mathcha.io/][Mathcha]] (Web)
