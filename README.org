@@ -22,7 +22,7 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 ** Computation
 
 *** [[https://www.wolframalpha.com/][Wolfram Alpha]] (Web)
-- https://www.wolframalpha.com/
+[[Wolfram][./wolfram.png]]
 
 ** Category theory
 
@@ -33,15 +33,25 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 [[Quantomatic][./quantomatic.png]]
 
 *** [[http://globular.science/][Globular]] (Web)
+[[Globular][./globular.png]]
 
 *** [[http://homotopy.io][Homotopy]] (Web)
+[[Homotopy][./homotopy.png]]
 
 ** Diagram generation
 
 *** [[http://www.texample.net/tikz/][Tikz]]
+[[Tikz][./tikz.png]]
+
 *** [[https://penrose.ink][Penrose]]
+[[Penrose][./penrose.png]]
+
 *** [[https://tug.org/applications/Xy-pic/][Xypic]]
+[[Xypic][./xypic.png]]
+
 *** [[http://www.graphviz.org/][GraphViz]]
+[[GraphViz][./graphviz.png]]
+
 *** [[https://tikzit.github.io][TikZit]]
 [[Tikzit][./tikzit.png]]
 *** [[http://tikzcd.yichuanshen.de][TikzCD]]
@@ -51,7 +61,9 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 *** [[https://www.getguesstimate.com/][Guesstimate]]
 [[Guesstimate][./guesstimate.gif]]
 
-*** [[https://instacalc.com/][InstaCalc]]
+*** [[https://instacalc.com/][InstaCalc]] (Web)
+[[InstaCalc][./instacalc.png]]
+
 
 ** Native Apps
 
