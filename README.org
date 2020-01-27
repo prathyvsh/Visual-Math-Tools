@@ -9,33 +9,32 @@ GeoGebra is dynamic mathematics software for all levels of education that brings
 
 ** Notebooks
 
-**** [[https://www.mathcha.io/][Mathcha]] (Web)
+*** [[https://www.mathcha.io/][Mathcha]] (Web)
 Mathcha provides sufficent Normal Text Editing Feature, and various sets of mathematical symbols/layouts, together with Drawing Features, which helps you to have a single place to create your own Mathematical document (Normal Text, Math Mode Text, Diagram/Graph).
 [[Mathcha][./mathcha.png]]
 
-*** [[https://observablehq.png][Observable]] (Web)
+*** [[https://observablehq.com/][Observable]] (Web)
 [[ObservableHQ][./observablehq.png]]
 
-*** [[https://jupyter.org/][Jupyter Notebooks]]
+*** [[https://jupyter.org/][Jupyter Notebooks]] (Web)
 [[Jupyter][./jupyternotebooks.png]]
 
 ** Computation
 
-*** [[https://www.wolframalpha.com/][Wolfram Alpha]]
+*** [[https://www.wolframalpha.com/][Wolfram Alpha]] (Web)
 - https://www.wolframalpha.com/
 
 ** Category theory
 
-*** [[http://cartographer.id/][Cartographer]]
+*** [[http://cartographer.id/][Cartographer]] (Web)
 [[Cartographer][./cartographer.png]]
 
-*** [[http://quantomatic.github.io/][Quantomatic]]
+*** [[http://quantomatic.github.io/][Quantomatic]] (Native)
 [[Quantomatic][./quantomatic.png]]
 
-*** [[http://globular.science/][Globular]]
+*** [[http://globular.science/][Globular]] (Web)
 
-*** [[http://homotopy.io][Homotopy]]
-
+*** [[http://homotopy.io][Homotopy]] (Web)
 
 ** Diagram generation
 
@@ -50,13 +49,16 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 
 *** Calculation
 *** [[https://www.getguesstimate.com/][Guesstimate]]
+[[Guesstimate][./guesstimate.gif]]
 
 *** [[https://instacalc.com/][InstaCalc]]
 
 ** Native Apps
 
 *** [[https://soulver.app][Soulver]]
+[[Soulver][./soulver.png]]
 *** [[https://numi.app][Numi]]
+[[Numi][./numi.png]]
 
 ** Lists
 - https://ncatlab.org/nlab/show/list+of+mathematics+software
