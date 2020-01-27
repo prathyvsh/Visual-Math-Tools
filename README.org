@@ -44,7 +44,7 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 [[Tikz][./tikz.png]]
 
 *** [[https://penrose.ink][Penrose]]
-[[Penrose][./penrose.png]]
+[[Penrose][./penrose.gif]]
 
 *** [[https://tug.org/applications/Xy-pic/][Xypic]]
 [[Xypic][./xypic.png]]
