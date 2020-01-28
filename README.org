@@ -107,10 +107,10 @@ https://kasperpeulen.github.io/
 
 ** Contributors
 
-[[https://github.com/maxkrieger][Mak Kriegers]]
-[[https://github.com/raghuveerdotnet][Raghuveer S]]
-[[https://github.com/girba][Tudor Girba]]
-[[https://github.com/ivanreese][Ivan Reese]]
-[[https://github.com/greggman][Greggman]]
-Alex Wein
-Nicholas Decoster
+- [[https://github.com/maxkrieger][Mak Kriegers]]
+- [[https://github.com/raghuveerdotnet][Raghuveer S]]
+- [[https://github.com/girba][Tudor Girba]]
+- [[https://github.com/ivanreese][Ivan Reese]]
+- [[https://github.com/greggman][Greggman]]
+- Alex Wein
+- Nicholas Decoster
