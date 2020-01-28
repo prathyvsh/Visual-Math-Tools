@@ -102,6 +102,14 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 ** Lists
 - https://ncatlab.org/nlab/show/list+of+mathematics+software
 
+** Games
+https://kasperpeulen.github.io/
+
 ** Contributers
-Mak Kriegers
-Raghuveer S
+[[https://github.com/maxkrieger][Mak Kriegers]]
+[[https://github.com/raghuveerdotnet][Raghuveer S]]
+[[https://github.com/girba][Tudor Girba]]
+[[https://github.com/ivanreese][Ivan Reese]]
+[[https://github.com/greggman][Greggman]]
+Alex Wein
+Nicholas Decoster
