@@ -24,18 +24,6 @@ GCLC (from "Geometry Constructions -> LaTeX Converter") is a tool for visualizin
 Euclidean geometric construction in javascript.
 [[Euclid][./euclid.png]]
 
-** Notebooks
-
-*** [[https://www.mathcha.io/][Mathcha]] (Web)
-Mathcha provides sufficent Normal Text Editing Feature, and various sets of mathematical symbols/layouts, together with Drawing Features, which helps you to have a single place to create your own Mathematical document (Normal Text, Math Mode Text, Diagram/Graph).
-[[Mathcha][./mathcha.png]]
-
-*** [[https://observablehq.com/][Observable]] (Web)
-[[ObservableHQ][./observablehq.png]]
-
-*** [[https://jupyter.org/][Jupyter Notebooks]] (Web)
-[[Jupyter][./jupyternotebooks.png]]
-
 ** Computation
 
 *** [[https://www.wolframalpha.com/][Wolfram Alpha]] (Web)
@@ -91,13 +79,24 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 *** [[https://instacalc.com/][InstaCalc]] (Web)
 [[InstaCalc][./instacalc.png]]
 
-
 ** Native Apps
 
 *** [[https://soulver.app][Soulver]]
 [[Soulver][./soulver.png]]
 *** [[https://numi.app][Numi]]
 [[Numi][./numi.png]]
+
+** Notebooks
+
+*** [[https://www.mathcha.io/][Mathcha]] (Web)
+Mathcha provides sufficent Normal Text Editing Feature, and various sets of mathematical symbols/layouts, together with Drawing Features, which helps you to have a single place to create your own Mathematical document (Normal Text, Math Mode Text, Diagram/Graph).
+[[Mathcha][./mathcha.png]]
+
+*** [[https://observablehq.com/][Observable]] (Web)
+[[ObservableHQ][./observablehq.png]]
+
+*** [[https://jupyter.org/][Jupyter Notebooks]] (Web)
+[[Jupyter][./jupyternotebooks.png]]
 
 ** Lists
 - https://ncatlab.org/nlab/show/list+of+mathematics+software
