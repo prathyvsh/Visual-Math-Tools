@@ -105,7 +105,8 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 ** Games
 https://kasperpeulen.github.io/
 
-** Contributers
+** Contributors
+
 [[https://github.com/maxkrieger][Mak Kriegers]]
 [[https://github.com/raghuveerdotnet][Raghuveer S]]
 [[https://github.com/girba][Tudor Girba]]
