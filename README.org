@@ -10,6 +10,20 @@ GeoGebra is dynamic mathematics software for all levels of education that brings
 *** [[http://www.drgeo.eu/][Dr.Geo]]
 [[Dr.Geo][./drgeo.gif]]
 
+*** [[http://openscience.org/kseg/][KSEG]]
+KSEG is an open-source Linux program for exploring Euclidean geometry.
+[[KSEG][./kseg.png]]
+
+*** [[][Geometer's Sketchpad]]
+
+*** [[http://poincare.matf.bg.ac.rs/~janicic/gclc/][GCLC]]
+GCLC (from "Geometry Constructions -> LaTeX Converter") is a tool for visualizing geometry, and for producing mathematical illustrations.
+[[GCLC][./gclc.gif]]
+
+*** [[http://euclid.js.org/][Euclid]]
+Euclidean geometric construction in javascript.
+[[Euclid][./euclid.png]]
+
 ** Notebooks
 
 *** [[https://www.mathcha.io/][Mathcha]] (Web)
@@ -61,13 +75,14 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 *** [[http://tikzcd.yichuanshen.de][TikzCD]]
 [[TikzCD][./tikzcd.png]]
 
+
 *** [[http://omrelli.ug/g9/gallery/][G9]]
 [[G9][./g9.png]]
 
-*** [[http://euclid.js.org/][Euclid]]
-Euclidean geometric construction in javascript.
-
-[[Euclid][./euclid.png]]
+** Languages
+*** [[https://asymptote.sourceforge.io/][Asymptote]]
+*** [[][LatexDraw]]
+*** [[http://tug.org/metapost.html][Metapost]]
 
 *** Calculation
 *** [[https://www.getguesstimate.com/][Guesstimate]]
@@ -86,3 +101,7 @@ Euclidean geometric construction in javascript.
 
 ** Lists
 - https://ncatlab.org/nlab/show/list+of+mathematics+software
+
+** Contributers
+Mak Kriegers
+Raghuveer S
