@@ -57,8 +57,17 @@ Mathcha provides sufficent Normal Text Editing Feature, and various sets of math
 
 *** [[https://tikzit.github.io][TikZit]]
 [[Tikzit][./tikzit.png]]
+
 *** [[http://tikzcd.yichuanshen.de][TikzCD]]
 [[TikzCD][./tikzcd.png]]
+
+*** [[http://omrelli.ug/g9/gallery/][G9]]
+[[G9][./g9.png]]
+
+*** [[http://euclid.js.org/][Euclid]]
+Euclidean geometric construction in javascript.
+
+[[Euclid][./euclid.png]]
 
 *** Calculation
 *** [[https://www.getguesstimate.com/][Guesstimate]]
