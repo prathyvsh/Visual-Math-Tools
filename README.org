@@ -113,3 +113,6 @@ https://kasperpeulen.github.io/
 - [[https://github.com/greggman][Greggman]]
 - Alex Wein
 - Nicholas Decoster
+
+** To Process
+https://dev.to/zevanrosser/arctype---easy-math-documents-2e2k
