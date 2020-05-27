@@ -24,6 +24,11 @@ GCLC (from "Geometry Constructions -> LaTeX Converter") is a tool for visualizin
 Euclidean geometric construction in javascript.
 [[Euclid][./euclid.png]]
 
+** Group Theory
+
+*** [[https://nathancarter.github.io/group-explorer/][Group Explorer]]
+
+
 ** Computation
 
 *** [[https://www.wolframalpha.com/][Wolfram Alpha]] (Web)
