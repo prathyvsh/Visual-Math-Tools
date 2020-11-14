@@ -20,6 +20,9 @@ KSEG is an open-source Linux program for exploring Euclidean geometry.
 GCLC (from "Geometry Constructions -> LaTeX Converter") is a tool for visualizing geometry, and for producing mathematical illustrations.
 [[GCLC][./gclc.gif]]
 
+*** [[https://github.com/paulmasson/mathcell][MathCell]]
+Interactive mathematics in the browser 
+
 *** [[http://euclid.js.org/][Euclid]]
 Euclidean geometric construction in javascript.
 [[Euclid][./euclid.png]]
