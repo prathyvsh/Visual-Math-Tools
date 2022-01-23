@@ -25,12 +25,22 @@ Interactive mathematics in the browser
 
 *** [[http://euclid.js.org/][Euclid]]
 Euclidean geometric construction in javascript.
+
 [[Euclid][./euclid.png]]
+
+** Algebra
+
+*** [[https://duetosymmetry.com/tool/polynomial-roots-toy/][Polynomial Roots]]
+
+*** [[https://twitter.com/elzr/status/1374291155869966336][Prototype from Elzr]]
 
 ** Group Theory
 
 *** [[https://nathancarter.github.io/group-explorer/][Group Explorer]]
 
+** Topology
+
+*** [[https://homepages.loria.fr/BLevy/GEOGRAM/geogram_demo_Evert.html][Thurston Sphere Eversion]]
 
 ** Computation
 
