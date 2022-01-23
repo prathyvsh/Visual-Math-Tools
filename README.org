@@ -103,6 +103,15 @@ Euclidean geometric construction in javascript.
 *** [[https://numi.app][Numi]]
 [[Numi][./numi.png]]
 
+** Chaos Theory
+
+*** [[https://duetosymmetry.com/tool/poincare-section-clicker-toy/][Poincaré Sections]]
+
+** Probability and Statistics
+
+*** [[http://www.infinitecuriosity.org/vizgp/][Gaussian Processes]]
+[[./gaussian-processes.gif]]
+
 ** Notebooks
 
 *** [[https://www.mathcha.io/][Mathcha]] (Web)
